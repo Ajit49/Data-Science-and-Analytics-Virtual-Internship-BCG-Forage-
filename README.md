@@ -1,4 +1,5 @@
-                                                                ![image](https://user-images.githubusercontent.com/82594129/225687765-f0243ffe-8d17-4e5c-b43c-c1e91668a839.png)
+                                                        ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225688322-8c719f25-e1a2-49fa-b456-9690d9ee4bc1.png)
+       
 
 
 # Data-Science-and-Analytics-Virtual-Internship-BCG-Forage-
