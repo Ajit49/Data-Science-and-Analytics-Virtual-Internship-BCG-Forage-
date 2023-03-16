@@ -1,9 +1,9 @@
-                                                        ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225688322-8c719f25-e1a2-49fa-b456-9690d9ee4bc1.png)
+   ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
+                                               
        
 
 
 # Data-Science-and-Analytics-Virtual-Internship-BCG-Forage-
-## Email To AD
 ## Here is the background information on your task
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
