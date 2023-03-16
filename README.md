@@ -1,3 +1,6 @@
+                                                                ![image](https://user-images.githubusercontent.com/82594129/225687765-f0243ffe-8d17-4e5c-b43c-c1e91668a839.png)
+
+
 # Data-Science-and-Analytics-Virtual-Internship-BCG-Forage-
 ## Email To AD
 ## Here is the background information on your task
